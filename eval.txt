@@ -1,0 +1,2 @@
+Namespace(ignore_case=False, order=4, ref='tmp/test.title.txt', sacrebleu=False, sentence_bleu=False, sys='tmp/gen.title.txt')
+BLEU4 = 12.95, 36.8/18.2/10.4/6.3 (BP=0.895, ratio=0.900, syslen=15435, reflen=17153)

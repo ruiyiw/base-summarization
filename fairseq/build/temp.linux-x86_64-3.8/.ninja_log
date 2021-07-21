@@ -1,0 +1,7 @@
+# ninja log v5
+8	371	1615370441709272814	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libbleu/libbleu.o	df81f56191d3d220
+8	585	1615370441923858148	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libbleu/module.o	55aac8f2c6fc4aad
+0	3080	1615370445125564567	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/data_utils_fast.o	5d4d5f2124f31bbc
+1	3181	1615370448410076790	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/token_block_utils_fast.o	51971ad533450efe
+0	3024	1615370462703156458	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/data_utils_fast.o	5d4d5f2124f31bbc
+1	3143	1615370465950915152	/share03/rwang/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/token_block_utils_fast.o	51971ad533450efe
